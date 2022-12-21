@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhiya492
+- 👋 Hi, I’m @abhishek_singh
 - 👀 I’m interested in learning new tecnology,finance
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web-develpment
