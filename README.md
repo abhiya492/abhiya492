@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishek_singh
 - 👀 I’m interested in learning new tecnology
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps And Cloud computing 
+- 🌱 I’m currently learning DevOps and MERN
+- 💞️ I’m looking to collaborate on DevOps And development.
 - 📫 How to reach me email:singh.421.aspabhiya@gmail.com
 
 <!---
