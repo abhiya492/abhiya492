@@ -15,7 +15,7 @@
 
 ## 🛠️ **Tech Stack**  
 ### 🌐 **Cloud Services**  
-☁️ **AWS** | ☁️ **Google Cloud**  
+☁️ **AWS** | ☁️ **Azure**  
 
 ### 📦 **Containerization**  
 🐳 **Docker** | ⚙️ **Kubernetes**  
