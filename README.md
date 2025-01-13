@@ -13,32 +13,20 @@
 
 ---
 
-## 🛠️ **Tech Stack**  
-### 🌐 **Cloud Services**  
-☁️ **AWS** | ☁️ **Azure**  
+# 🛠️ **Tech Stack**
 
-### 📦 **Containerization**  
-🐳 **Docker** | ⚙️ **Kubernetes**  
+| **Category**                 | **Technologies**                                  |
+|-------------------------------|---------------------------------------------------|
+| 🌐 **Cloud Services**         | ☁️ **AWS** \| ☁️ **Azure**                        |
+| 📦 **Containerization**       | 🐳 **Docker** \| ⚙️ **Kubernetes**               |
+| 🏗️ **Infrastructure as Code** | 🔧 **Terraform** \| 🛠️ **Ansible**               |
+| ⚡ **CI/CD**                  | 🔄 **Jenkins**                                   |
+| 📜 **Programming Languages**  | 🐍 **Python** \| ☕ **Java** \| 🌐 **JavaScript**  |
+| 🔍 **Monitoring & Visualization** | 📊 **Prometheus** \| 📈 **Grafana**           |
+| 💻 **Frontend & Backend**     | 🎨 **React** \| 🎨 **Tailwind CSS** \| 🛠️ **Node.js** \| 🛠️ **NextJs** |
+| 🗄️ **Databases**              | 📚 **MongoDB** \| 🗃️ **PostgreSQL** \| 🗃️ **Prisma**|
 
-### 🏗️ **Infrastructure as Code (IaC)**  
-🔧 **Terraform** | 🛠️ **Ansible**  
 
-### ⚡ **CI/CD**  
-🔄 **Jenkins** | 🔄 **GitLab Pipelines**  
-
-### 📜 **Programming Languages**  
-🐍 **Python** | ☕ **Java** | 🌐 **JavaScript**  
-
-### 🔍 **Monitoring & Visualization**  
-📊 **Prometheus** | 📈 **Grafana**  
-
-### 💻 **Frontend & Backend**  
-🎨 **React** | 🎨 **Tailwind CSS** | 🛠️ **Node.js**  
-
-### 🗄️ **Databases**  
-📚 **MongoDB** | 🗃️ **PostgreSQL**  
-
----
 
 ## 📚 **Certifications**  
 - 🎖️ **AWS Technical Essentials**  
