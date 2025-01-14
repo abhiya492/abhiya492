@@ -99,10 +99,8 @@ Features: Real-time notifications, Event monitoring
 
 ---
 
-## 🌱 Daily Dev Insights  
-<a href="https://app.daily.dev/abhisheksingh49"><img src="https://api.daily.dev/devcards/7b0c812d47bf4a499d146014020e5826.png?r=6z9" width="400" alt="Abhishek Singh's Dev Card"/></a>
-
----
+## 🌟 Dynamic Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 💡 **Let’s Collaborate**  
 🌟 Whether it's solving complex DevOps challenges, building robust SaaS platforms, or creating AI-driven tools, I’m ready to make an impact! 🚀
