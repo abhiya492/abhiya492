@@ -74,10 +74,6 @@ Features: Real-time notifications, Event monitoring
 
 ---
 
-## 🚀 **Dynamic Activity Graph**  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiya492&theme=radical&hide_border=true)  
-
----
 
 ## 🛠️ **Tech Stack**  
 
@@ -99,6 +95,11 @@ Features: Real-time notifications, Event monitoring
 📆 **Last Updated:** <!-- DYNAMIC-CONTENT -->  
 💡 *Here's a motivational quote for you:*
 > <!-- DYNAMIC-QUOTE -->
+
+---
+
+## 🌱 Daily Dev Insights  
+<a href="https://app.daily.dev/abhisheksingh49"><img src="https://api.daily.dev/devcards/7b0c812d47bf4a499d146014020e5826.png?r=6z9" width="400" alt="Abhishek Singh's Dev Card"/></a>
 
 ---
 
