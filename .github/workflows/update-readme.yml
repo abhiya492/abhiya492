@@ -31,5 +31,5 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated README with dynamic content"
+          git diff-index --quiet HEAD || git commit -m "Updated README with dynamic content"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
