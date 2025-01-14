@@ -104,3 +104,17 @@ Features: Real-time notifications, Event monitoring
 
 ## 💡 **Let’s Collaborate**  
 🌟 Whether it's solving complex DevOps challenges, building robust SaaS platforms, or creating AI-driven tools, I’m ready to make an impact! 🚀
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    fetch("https://api.github.com/repos/abhiya492/abhiya492/readme")
+      .then(response => response.json())
+      .then(data => {
+        const content = atob(data.content);
+        const dynamicContent = content.match(/<!-- DYNAMIC-CONTENT -->([\s\S]*?)<!-- DYNAMIC-CONTENT -->/)[1];
+        const dynamicQuote = content.match(/<!-- DYNAMIC-QUOTE -->([\s\S]*?)<!-- DYNAMIC-QUOTE -->/)[1];
+        document.querySelector("<!-- DYNAMIC-CONTENT -->").innerHTML = dynamicContent;
+        document.querySelector("<!-- DYNAMIC-QUOTE -->").innerHTML = dynamicQuote;
+      });
+  });
+</script>
