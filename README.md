@@ -9,6 +9,7 @@
 ---
 
 <!-- DYNAMIC-CONTENT -->
+<!-- DYNAMIC-QUOTE -->
 
 ---
 

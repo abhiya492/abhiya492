@@ -1,8 +1,9 @@
 import datetime
 import random
 
-# Define the placeholder in your README
-PLACEHOLDER = "<!-- DYNAMIC-CONTENT -->"
+# Define the placeholders in your README
+PLACEHOLDER_CONTENT = "<!-- DYNAMIC-CONTENT -->"
+PLACEHOLDER_QUOTE = "<!-- DYNAMIC-QUOTE -->"
 
 # Define a list of motivational quotes
 quotes = [
@@ -20,15 +21,15 @@ with open("README.md", "r") as file:
 # Generate dynamic content
 last_updated = f"📆 **Last Updated:** {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC"
 random_quote = random.choice(quotes)
-dynamic_content = f"""
-{last_updated}
-
+dynamic_content = f"{last_updated}"
+dynamic_quote = f"""
 💡 *Here's a motivational quote for you:*
 > "{random_quote}"
 """
 
-# Replace the placeholder with dynamic content
-updated_content = content.replace(PLACEHOLDER, dynamic_content)
+# Replace the placeholders with dynamic content
+updated_content = content.replace(PLACEHOLDER_CONTENT, dynamic_content)
+updated_content = updated_content.replace(PLACEHOLDER_QUOTE, dynamic_quote)
 
 # Write the updated content back to the README
 with open("README.md", "w") as file:
