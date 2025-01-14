@@ -8,14 +8,6 @@
 
 ---
 
-📆 **Last Updated:** 2023-09-30 12:00:00 UTC
-💡 *Here's a motivational quote for you:*
-> "The best way to predict the future is to create it. — Peter Drucker"
-
----
-
----
-
 ## 🌟 **About Me**  
 - 🎓 4th-year Electrical Engineering student at **MNIT Jaipur**.  
 - 🌱 Currently mastering **DevOps**, **MERN Stack**, and **Cloud Services**.  
@@ -84,12 +76,6 @@ Features: Real-time notifications, Event monitoring
 📊 [LeetCode](https://leetcode.com/u/2021uee1669/)  
 🌐 [Portfolio](https://abhi-project-portfolio.netlify.app/)  
 
----
-
-## 💡 **Dynamic Section**  
-📆 **Last Updated:** <!-- DYNAMIC-CONTENT -->  
-💡 *Here's a motivational quote for you:*
-> <!-- DYNAMIC-QUOTE -->
 
 ---
 
