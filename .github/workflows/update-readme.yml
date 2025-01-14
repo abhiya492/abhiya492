@@ -1,25 +1,32 @@
-name: Update README
+name: Update README with Dynamic Content
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Update README with Dynamic Content
-        run: |
-          echo "📆 Last updated: $(date)" > last_updated.txt
-          python3 update_readme.py
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-      - name: Commit Changes
+      - name: Install Dependencies
+        run: pip install -r requirements.txt || echo "No dependencies required"
+
+      - name: Run Update Script
+        run: python update_readme.py
+
+      - name: Commit and Push Changes
         run: |
-          git config user.name "GitHub Actions"
+          git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add .
+          git add README.md
           git commit -m "Updated README with dynamic content"
           git push
