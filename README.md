@@ -1,7 +1,15 @@
-# 👋 Hi, I’m Abhishek Singh
+# 👋 Hi, I’m Abhishek Singh  
 
-🎯 **Objective**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiya492&show_icons=true&theme=radical)
+
+🎯 **Objective** 
 🚀 Aspiring **DevOps Engineer** and **Software Development Engineer (SDE)** with hands-on expertise in **automation**, **cloud services**, and **backend development**. My mission is to deliver innovative solutions and foster impactful collaborations.  
+
+---
+
+<!-- DYNAMIC-CONTENT -->
+
+---
 
 ---
 
@@ -13,7 +21,7 @@
 
 ---
 
-# 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**  
 
 | **Category**                 | **Technologies**                                  |
 |-------------------------------|---------------------------------------------------|
@@ -26,44 +34,51 @@
 | 💻 **Frontend & Backend**     | 🎨 **React** \| 🎨 **Tailwind CSS** \| 🛠️ **Node.js** \| 🛠️ **NextJs** |
 | 🗄️ **Databases**              | 📚 **MongoDB** \| 🗃️ **PostgreSQL** \| 🗃️ **Prisma**|
 
-
+---
 
 ## 📚 **Certifications**  
-- 🎖️ **AWS Technical Essentials**  
-- 🎖️ **Google Cloud Certified: Cloud Engineer**  
-- 🎖️ **Infrastructure Automation with Terraform**  
+🎖️ **AWS Technical Essentials**  
+🎖️ **Google Cloud Certified: Cloud Engineer**  
+🎖️ **Infrastructure Automation with Terraform**  
 
 ---
 
 ## 📂 **Projects**  
+> *[Click each project title to explore more!]*  
+
 ### 1️⃣ [Real-time Chat Application](https://chat-app-complete.onrender.com/)  
-- Built with the **MERN Stack** & **Socket.io** for real-time messaging.  
-- Features **JWT Authentication**, **Zustand State Management**, and **TailwindCSS** styling.  
+**Stack:** MERN, Socket.io, TailwindCSS, Zustand  
+Features: Real-time messaging, JWT Authentication  
 
 ### 2️⃣ [Ticketing Marketplace SaaS](https://ticket-saas-abhi.netlify.app/)  
-- Developed with **Next.js 15**, **Stripe Connect**, and **Clerk Authentication**.  
-- Includes a **Seller Dashboard**, event management, and a sleek UI with **ShadCN**.  
+**Stack:** Next.js, Stripe Connect, Clerk Authentication  
+Features: Seller dashboard, Event management, Sleek UI  
 
 ### 3️⃣ [AI Blogify](https://github.com/abhiya492/motion-ai)  
-- Converts videos into **SEO-friendly blog posts** using **OpenAI Whisper API**.  
-- Built with **Next.js**, **NeonDB**, **Stripe**, and a responsive UI.  
+**Stack:** OpenAI Whisper API, Next.js, NeonDB  
+Converts videos into SEO-friendly blogs  
 
 ### 4️⃣ [Real-time SaaS Monitoring](https://github.com/abhiya492/jstack)  
-- Monitors events with real-time **Discord notifications** and secure **Stripe payments**.  
+**Stack:** Stripe Payments, Discord API  
+Features: Real-time notifications, Event monitoring  
 
 ---
 
 ## 📬 **Contact Me**  
-📧 Email: [2021uee1669@mnit.ac.in](mailto:2021uee1669@mnit.ac.in)  
-💼 LinkedIn: [Abhishek Singh](https://linkedin.com/in/abhishek-singh-1604b9221)  
-💻 GitHub: [abhiya492](https://github.com/abhiya492)  
-📘 HashNode: [@abhishek9123](https://hashnode.com/@abhishek9123)  
-📊 LeetCode: [2021uee1669](https://leetcode.com/u/2021uee1669/)  
-🌐 Portfolio: [Abhishek's Portfolio](https://abhi-project-portfolio.netlify.app/)  
+📧 [Email Me](mailto:2021uee1669@mnit.ac.in)  
+💼 [LinkedIn](https://linkedin.com/in/abhishek-singh-1604b9221)  
+💻 [GitHub](https://github.com/abhiya492)  
+📘 [HashNode](https://hashnode.com/@abhishek9123)  
+📊 [LeetCode](https://leetcode.com/u/2021uee1669/)  
+🌐 [Portfolio](https://abhi-project-portfolio.netlify.app/)  
+
+---
+
+## 💡 **Dynamic Section**  
+📆 **Last Updated:** <!-- DYNAMIC-CONTENT -->  
 
 ---
 
 ## 💡 **Let’s Collaborate**  
-Whether it's solving complex DevOps challenges, building robust SaaS platforms, or creating AI-driven tools, I’m ready to make an impact!  
-🌟 **Let’s innovate together!** 🚀  
+🌟 Whether it's solving complex DevOps challenges, building robust SaaS platforms, or creating AI-driven tools, I’m ready to make an impact! 🚀
 
