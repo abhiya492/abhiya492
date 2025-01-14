@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abhishek Singh  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiya492&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiya492&layout=compact&theme=radical)
+![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!;Aspiring+DevOps+%26+SDE+Engineer!;Let's+Innovate+Together!+🚀)  
+
 
 🎯 **Objective** 
 🚀 Aspiring **DevOps Engineer** and **Software Development Engineer (SDE)** with hands-on expertise in **automation**, **cloud services**, and **backend development**. My mission is to deliver innovative solutions and foster impactful collaborations.  
@@ -19,6 +19,15 @@
 - 🌱 Currently mastering **DevOps**, **MERN Stack**, and **Cloud Services**.  
 - 💡 Passionate about **troubleshooting**, **automation**, and **learning new technologies**.  
 - 🤝 Open to collaborations on **DevOps tools**, **SaaS apps**, and **AI-driven projects**.  
+
+---
+
+## 📊 **GitHub Stats**  
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiya492&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiya492&layout=compact&theme=radical) |
+|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhiya492&theme=radical&hide_border=true)  
 
 ---
 
@@ -62,6 +71,17 @@ Converts videos into SEO-friendly blogs
 ### 4️⃣ [Real-time SaaS Monitoring](https://github.com/abhiya492/jstack)  
 **Stack:** Stripe Payments, Discord API  
 Features: Real-time notifications, Event monitoring  
+
+---
+
+## 🚀 **Dynamic Activity Graph**  
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiya492&theme=radical&hide_border=true)  
+
+---
+
+## 🛠️ **Tech Stack**  
+
+![Tech Stack](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,python,java,js,react,nextjs,tailwind,mongodb,postgresql)  
 
 ---
 
