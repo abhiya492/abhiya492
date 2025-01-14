@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Abhishek Singh  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiya492&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiya492&layout=compact&theme=radical)
 
 🎯 **Objective** 
 🚀 Aspiring **DevOps Engineer** and **Software Development Engineer (SDE)** with hands-on expertise in **automation**, **cloud services**, and **backend development**. My mission is to deliver innovative solutions and foster impactful collaborations.  
@@ -76,9 +77,10 @@ Features: Real-time notifications, Event monitoring
 
 ## 💡 **Dynamic Section**  
 📆 **Last Updated:** <!-- DYNAMIC-CONTENT -->  
+💡 *Here's a motivational quote for you:*
+> <!-- DYNAMIC-QUOTE -->
 
 ---
 
 ## 💡 **Let’s Collaborate**  
 🌟 Whether it's solving complex DevOps challenges, building robust SaaS platforms, or creating AI-driven tools, I’m ready to make an impact! 🚀
-
