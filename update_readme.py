@@ -36,3 +36,4 @@ with open("README.md", "w") as file:
     file.write(updated_content)
 
 print("README updated successfully!")
+print("Script executed successfully!")  # Pf761
