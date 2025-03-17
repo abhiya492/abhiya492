@@ -75,7 +75,7 @@ Features: Real-time notifications, Event monitoring
 💻 [GitHub](https://github.com/abhiya492)  
 📘 [HashNode](https://hashnode.com/@abhishek9123)  
 📊 [LeetCode](https://leetcode.com/u/2021uee1669/)  
-🌐 [Portfolio](https://abhi-project-portfolio.netlify.app/)  
+🌐 [Portfolio](https://abhi-portfolio-gold.vercel.app/)  
 
 
 ---
