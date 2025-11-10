@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 **About Me**  
-- 🎓 4th-year Electrical Engineering student at **MNIT Jaipur**.  
+- 🎓 **MNIT Jaipur**.  
 - 🌱 Currently mastering **DevOps**, **MERN Stack**, and **Cloud Services**.  
 - 💡 Passionate about **troubleshooting**, **automation**, and **learning new technologies**.  
 - 🤝 Open to collaborations on **DevOps tools**, **SaaS apps**, and **AI-driven projects**.  
