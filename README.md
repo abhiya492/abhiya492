@@ -4,7 +4,7 @@
 
 
 🎯 **Objective** 
-🚀 Aspiring **DevOps Engineer** and **Software Development Engineer (SDE)** with hands-on expertise in **automation**, **cloud services**, and **backend development**. My mission is to deliver innovative solutions and foster impactful collaborations.  
+🚀 **DevOps Engineer** and **Software Development Engineer (SDE)** with hands-on expertise in **automation**, **cloud services**, and **backend development**. My mission is to deliver innovative solutions and foster impactful collaborations.  
 
 ---
 
@@ -36,7 +36,7 @@
 | ⚡ **CI/CD**                  | 🔄 **Jenkins**                                   |
 | 📜 **Programming Languages**  | 🐍 **Python** \| ☕ **Java** \| 🌐 **JavaScript**  |
 | 🔍 **Monitoring & Visualization** | 📊 **Prometheus** \| 📈 **Grafana**           |
-| 💻 **Frontend & Backend**     | 🎨 **React** \| 🎨 **Tailwind CSS** \| 🛠️ **Node.js** \| 🛠️ **NextJs** |
+| 💻 **Frontend & Backend**     | 🎨 **React** \| 🛠️ **Node.js** \| 🛠️ **NextJs** |
 | 🗄️ **Databases**              | 📚 **MongoDB** \| 🗃️ **PostgreSQL** \| 🗃️ **Prisma**|
 
 ---
