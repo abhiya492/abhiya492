@@ -41,12 +41,6 @@
 
 ---
 
-## 📚 **Certifications**  
-🎖️ **AWS Technical Essentials**  
-🎖️ **Google Cloud Certified: Cloud Engineer**  
-🎖️ **Infrastructure Automation with Terraform**  
-
----
 
 ## 📂 **Projects**  
 > *[Click each project title to explore more!]*  
@@ -67,28 +61,11 @@ Converts videos into SEO-friendly blogs
 **Stack:** Stripe Payments, Discord API  
 Features: Real-time notifications, Event monitoring  
 
----
-
-## 📬 **Contact Me**  
-📧 [Email Me](mailto:2021uee1669@mnit.ac.in)  
-💼 [LinkedIn](https://linkedin.com/in/abhishek-singh-1604b9221)  
-💻 [GitHub](https://github.com/abhiya492)  
-📘 [HashNode](https://hashnode.com/@abhishek9123)  
-📊 [LeetCode](https://leetcode.com/u/2021uee1669/)  
-🌐 [Portfolio](https://abhi-portfolio-gold.vercel.app/)  
-
 
 ---
 
 ## 🌟 Dynamic Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-📆 **Last Updated:** 2025-01-14 20:21:49 UTC
-
-
-> 
-💡 *Here's a motivational quote for you:*
-> "If you are not willing to risk the usual, you will have to settle for the ordinary. — Jim Rohn"
 
 
 
