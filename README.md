@@ -34,7 +34,7 @@
 | 📦 **Containerization**       | 🐳 **Docker** \| ⚙️ **Kubernetes**               |
 | 🏗️ **Infrastructure as Code** | 🔧 **Terraform** \| 🛠️ **Ansible**               |
 | ⚡ **CI/CD**                  | 🔄 **Jenkins**                                   |
-| 📜 **Programming Languages**  | 🐍 **Python** \| ☕ **Java** \| 🌐 **JavaScript**  |
+| 📜 **Programming Languages**  | 🐍 **Python** \| 🌐 **JavaScript**  |
 | 🔍 **Monitoring & Visualization** | 📊 **Prometheus** \| 📈 **Grafana**           |
 | 💻 **Frontend & Backend**     | 🎨 **React** \| 🛠️ **Node.js** \| 🛠️ **NextJs** |
 | 🗄️ **Databases**              | 📚 **MongoDB** \| 🗃️ **PostgreSQL** \| 🗃️ **Prisma**|
