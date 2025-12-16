@@ -544,101 +544,73 @@ DevOps:
 </div>
 
 ---
-
-## 💡 **Current Status - Live Updates**
+## 💡 **Current Status — Live Snapshot**
 
 <div align="center">
 
-```typescript
-class DeveloperStatus {
-  private currentTime = new Date();
-  
-  public getStatus() {
-    return {
-      🔭 workingOn: [
-        "AWS Cost Optimization Platform @ HabileLabs",
-        "Advanced Kubernetes Certification",
-        "Personal DevOps Blog"
-      ],
-      
-      🌱 learning: [
-        "Kubernetes CKA Certification",
-        "Microservices Design Patterns",
-        "System Design at Scale",
-        "AWS Solutions Architect"
-      ],
-      
-      👯 openToCollaborate: [
-        "Open Source DevOps Tools",
-        "Cloud Infrastructure Projects",
-        "SaaS Platform Development",
-        "Real-time Applications"
-      ],
-      
-      🤔 needHelpWith: [
-        "Advanced K8s Networking",
-        "Service Mesh Implementation",
-        "GitOps Best Practices"
-      ],
-      
-      💬 expertiseIn: [
-        "☁️ AWS Cloud Architecture",
-        "🔄 CI/CD Pipeline Design",
-        "🐳 Container Orchestration",
-        "🚀 Full Stack Development",
-        "📊 Real-time Systems",
-        "🔐 Security Best Practices"
-      ],
-      
-      📫 contact: {
-        email: "singh.421.aspabhiya@gmail.com",
-        linkedin: "/in/abhishek-singh-1604b9221",
-        portfolio: "https://abhi-portfolio-gold.vercel.app",
-        phone: "+91-9305248855"
-      },
-      
-      😄 pronouns: "He/Him",
-      
-      ⚡ funFacts: [
-        "I debug in production... just kidding! 😅",
-        "Coffee: The official fuel of DevOps ☕",
-        "Kubernetes is just Docker with extra steps... right? 🤔",
-        "There are 10 types of people: those who understand binary and those who don't"
-      ],
-      
-      🎯 availability: {
-        freelance: "✅ Available",
-        fullTime: "✅ Open to Offers",
-        consulting: "✅ Available",
-        mentoring: "✅ Happy to Help"
-      },
-      
-      💼 workPreference: {
-        remote: "✅ Preferred",
-        hybrid: "✅ Open",
-        onsite: "✅ Negotiable"
-      }
-    };
-  }
-  
-  public motivationalQuote(): string {
-    const quotes = [
-      "Code is like humor. When you have to explain it, it's bad.",
-      "First, solve the problem. Then, write the code.",
-      "The best error message is the one that never shows up.",
-      "Make it work, make it right, make it fast."
-    ];
-    return quotes[Math.floor(Math.random() * quotes.length)];
-  }
-}
+<table>
+<tr>
+<td width="50%">
 
-const status = new DeveloperStatus();
-console.log("👋 Hey there! Let's build something amazing together!");
-console.log(status.getStatus());
-console.log(`\n💭 "${status.motivationalQuote()}"`);
-```
+### 🔭 Working On
+- ☁️ **AWS Cost Optimization Platform** @ HabileLabs  
+- ☸️ **Advanced Kubernetes (CKA)**  
+- ✍️ **Personal DevOps Blog**
+
+### 🌱 Learning
+- Kubernetes Networking & Security  
+- Microservices Design Patterns  
+- System Design at Scale  
+- AWS Solutions Architect  
+
+</td>
+<td width="50%">
+
+### 👯 Open to Collaborate
+- Open-source DevOps tools  
+- Cloud infrastructure projects  
+- SaaS platform development  
+- Real-time applications  
+
+### 🤔 Looking for Help With
+- Advanced Kubernetes networking  
+- Service mesh (Istio / Linkerd)  
+- GitOps best practices  
+
+</td>
+</tr>
+</table>
 
 </div>
+
+### 💬 **Core Expertise**
+
+<div align="center">
+
+| ☁️ Cloud | 🔄 DevOps | 🐳 Containers | 🚀 Development |
+|--------|----------|--------------|----------------|
+| AWS Architecture | CI/CD Pipelines | Kubernetes | Full-stack Apps |
+| Security & IAM | Automation | Docker | Real-time Systems |
+| Cost Optimization | Monitoring | Helm | API Design |
+
+</div>
+
+### 📫 **Contact & Availability**
+
+<div align="center">
+
+| 📧 Email | 💼 LinkedIn | 🌐 Portfolio | 📱 Phone |
+|--------|-----------|-------------|---------|
+| singh.421.aspabhiya@gmail.com | [LinkedIn](https://linkedin.com/in/abhishek-singh-1604b9221) | [Portfolio](https://abhi-portfolio-gold.vercel.app) | +91-9305248855 |
+
+</div>
+
+### ⚡ **Quick Facts**
+- 😄 **Pronouns:** He / Him  
+- 🌍 **Location:** Jaipur, India  
+- 💼 **Open for:** Full-time · Freelance · Consulting  
+- ☕ **Fuel:** Coffee + Kubernetes YAML  
+
 
 ---
 
