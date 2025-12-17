@@ -503,7 +503,7 @@ DevOps:
 **Bachelor of Technology**
 **Electrical Engineering**
 
-📅 **2021 - 2025** (Expected)
+📅 **2021 - 2025**
 
 **Relevant Coursework:**
 - Data Structures & Algorithms
