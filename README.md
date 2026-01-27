@@ -25,8 +25,6 @@
 <!-- Live Stats with Animations -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhiya492&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/abhiya492?label=👥%20Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/abhiya492?label=⭐%20Stars&style=for-the-badge&color=yellow&logo=github" alt="stars" />
   <img src="https://img.shields.io/badge/☁️_AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
@@ -49,7 +47,7 @@
 ```typescript
 const abhishekSingh = {
   name: "Abhishek Singh",
-  role: "AWS Certified DevOps Engineer",
+  role: "AWS Certified Engineer",
   company: "HabileLabs",
   location: "Jaipur, India 🇮🇳",
   education: "MNIT Jaipur '25",
