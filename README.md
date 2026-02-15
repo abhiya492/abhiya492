@@ -48,18 +48,9 @@
 const abhishekSingh = {
   name: "Abhishek Singh",
   role: "AWS Certified Engineer",
-  company: "HabileLabs",
-  location: "Jaipur, India 🇮🇳",
+  location: " India 🇮🇳",
   education: "MNIT Jaipur '25",
-  
-  achievements: {
-    💰 costReduction: "20%",
-    ⚡ uptime: "99.9%",
-    👥 concurrentUsers: "100+",
-    ⭐ githubStars: "31+",
-    🎓 certifications: ["AWS Cloud Practitioner"]
-  },
-  
+    
   currentlyLearning: [
     "Kubernetes Advanced",
     "Microservices Architecture", 
@@ -97,7 +88,7 @@ console.log("👋 Let's build something amazing together!");
 ## 💼 **Professional Journey & Impact**
 
 <details open>
-<summary><b>🏢 HabileLabs - Associate Software Engineer (June 2025 - Present)</b></summary>
+<summary><b> Associate Software Engineer (June 2025 - Present)</b></summary>
 
 <br>
 
